@@ -61,3 +61,12 @@ Après exploration, nous avons retenu **3 fichiers principaux** :
 - Spyder
 
 ---
+🙋‍♂️ Auteur
+Mari-Antoine Brun BAHOUN
+Étudiant en Master 1 Sciences des Données, passionné par la Data Science appliquée au secteur public et à la mobilité.
+
+www.linkedin.com/in/brun-bahoun-houtoukpe-b1b9a1304 
+
+📌 Objectif professionnel
+Ce projet vise à valoriser mes compétences en exploration de données, data visualisation et analyse décisionnelle, dans le cadre d'une recherche d'alternance dans les domaines bancaire, assurantiel ou de la mobilité urbaine.
+
