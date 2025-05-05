@@ -63,7 +63,7 @@ Après exploration, nous avons retenu **3 fichiers principaux** :
 ---
 🙋‍♂️ Auteur
 Mari-Antoine Brun BAHOUN
-Étudiant en Master 1 Sciences des Données, passionné par la Data Science appliquée au secteur public et à la mobilité.
+Étudiant en Master 1 Sciences des Données, passionné par l'actuariat,  la Data Science appliquée au secteur public et à la mobilité.
 
 www.linkedin.com/in/brun-bahoun-houtoukpe-b1b9a1304 
 
